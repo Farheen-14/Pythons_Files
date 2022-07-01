@@ -8,7 +8,7 @@
 
 # Make a Dictonary, input from user.
 print("Welcome to my Dictonary")
-dic={"Farheen" : "The most inteligent person in the World and our Next PM", "Hasnain" : "Haga Hug machaane wala padodaaa", "Shahnaaj" : "Jaldi se shadi karne waali ladki", "Tamanna" : "Self lover..Apna kaam banta..Bhaad me jaae janta"}
+dic={"Farheen" : "The most inteligent person in the World and our Next PM", "Hasnain" : "testing is testing", "Shahnaaj" : "pro intelligent", "Tamanna" : "intelligent"}
 # print(dic)
 print("Enter your Choice :\n 1. Farheen \n 2. Shahnaaj \n 3. Hasnain \n 4. Tamanna")
 w= input("Enter name to get definition : ")
